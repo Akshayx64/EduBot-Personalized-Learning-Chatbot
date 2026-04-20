@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.local
+
+# Local indexes and generated outputs
+faiss_index/
+*.faiss
+*.pkl
+*.pdf
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/

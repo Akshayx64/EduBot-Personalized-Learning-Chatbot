@@ -1,0 +1,9 @@
+streamlit>=1.34,<2
+google-generativeai>=0.8.5,<1
+python-dotenv>=1.0.1,<2
+PyPDF2>=3.0.1,<4
+fpdf2>=2.7.9,<3
+langchain>=0.2.15,<0.4
+langchain-community>=0.2.15,<0.4
+langchain-google-genai>=1.0.8,<3
+faiss-cpu>=1.8.0,<2
